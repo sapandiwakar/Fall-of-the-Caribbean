@@ -1,0 +1,8 @@
+copy  E:\Softwares\Development\OpenGL\tools\GLUT-3.7\LIB\GLUT\GLUT32.lib  to  C:\Program Files\Microsoft Visual Studio 8\VC\lib
+
+
+copy    E:\Softwares\Development\OpenGL\tools\GLUT-3.7\INCLUDE\GL\GLUT.h  to   C:\Program Files\Microsoft Visual Studio 8\VC\include\gl
+
+
+
+copy E:\Softwares\Development\OpenGL\tools\GLUT-3.7\LIB\GLUT\GLUT32.DLL  to   C:\WINDOWS\system
